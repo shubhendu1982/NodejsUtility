@@ -1,0 +1,23 @@
+{
+  "name": "chart-service-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "devDependencies": {
+    "@types/lodash": "^4.14.178",
+    "lodash": "^4.17.21",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4",
+    "zx": "^4.2.0"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "commander": "^10.0.0",
+    "jq": "^1.7.2"
+  }
+}
