@@ -23,7 +23,7 @@
     "zx": "^4.2.0"
   },
   "dependencies": {
-    "aws-cdk": "2.5.0",
+    "aws-cdk": "2.73.0",
     "@aws-sdk/client-sts": "^3.245.0",
     "constructs": "^10.0.0"
   }
