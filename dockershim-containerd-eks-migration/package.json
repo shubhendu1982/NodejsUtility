@@ -17,7 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^3.2.4",
-    "commander": "^10.0.0",
+    "commander": "^10.0.1",
     "jq": "^1.7.2"
   }
 }
